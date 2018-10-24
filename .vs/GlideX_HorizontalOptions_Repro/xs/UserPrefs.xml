@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A422AD57-0EC1-4110-856A-8F2EAD1BCC85}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GlideX_HorizontalOptions_Repro.Android/MainActivity.cs">
+    <Files>
+      <File FileName="GlideX_HorizontalOptions_Repro.Android/MainActivity.cs" Line="16" Column="1" />
+      <File FileName="GlideX_HorizontalOptions_Repro/App.cs" Line="3" Column="41" />
+      <File FileName="GlideX_HorizontalOptions_Repro/MainPage.cs" Line="3" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GlideX__HorizontalOptions__Repro.Android PreferredExecutionTarget="Android.nexus_5x_api_27" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
